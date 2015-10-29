@@ -1,10 +1,10 @@
 # unity-proximity-exploder
 Proximity-based object exploder for Unity. Displaces the faces of an object to varying degrees, based on the distance between the object and the player.
 
-## Requirements
+### Requirements
 * Fragmentum shader: https://www.assetstore.unity3d.com/en/#!/content/8264
 
-## Set-up Instructions
+### Set-up Instructions
 * Download Fragmentum from the Unity Asset Store: https://www.assetstore.unity3d.com/en/#!/content/8264
 * Save ExploderController.cs and ExploderParams.cs to your project’s scripts folder.
 * Create an empty Game Controller object if you don’t already have one in your scene.
